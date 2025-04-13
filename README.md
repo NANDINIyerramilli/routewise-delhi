@@ -12,8 +12,9 @@ This project also includes a web interface built using Flask, where users can in
 Demo :
 ---------
 
-![alt text](image-1.png)
-Features:
+
+Features:![Screenshot 2025-04-13 215726](https://github.com/user-attachments/assets/e411c948-3363-4b87-bf90-075b0a90ffd1)
+
 ----------
 -Graph Representation: Metro stations and their connections (edges) are represented using an adjacency list.
 
